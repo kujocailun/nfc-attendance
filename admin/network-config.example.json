@@ -1,0 +1,9 @@
+{
+    "admin_host": "checkin.example.com",
+    "device_host": "device-api.example.com",
+    "access_issuer": "",
+    "access_audience": "",
+    "admin_email": "admin@example.com",
+    "local_admin": true,
+    "port": 18080
+}
